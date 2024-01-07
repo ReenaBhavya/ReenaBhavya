@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ReenaBhavya
-- 👀 I’m interested in DevOps tools and AWS
-- 🌱 I’m currently learning Kubernetes and Cloud services for DevOps
-- 💞️ I’m looking to collaborate on open source on DevOps
+- 👀 I’m interested in Data science and Visualization.
+- 🌱 I’m currently learning Machine Learning Tools and Cloud services.
+- 💞️ I’m looking to collaborate on open source on data analysis
 - 📫 How to reach me reenabhavya02@gmail.com
 
 <!---
